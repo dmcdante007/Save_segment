@@ -42,6 +42,8 @@ cd backend
 2. Install the required dependencies:
    ```bash
    npm install
+   npm install -D tailwindcss postcss autoprefixer
+   npm i axios
    ```
 
 3. Start the frontend server:
@@ -54,5 +56,5 @@ cd backend
 ## Git commands (write in terminal):
 1. git add . (use this 2 times to add all your changes)
 2. git commit -m "some messages" (use this to commit all your changes)
-3. git pull (use this to fetch changes from Github repository if someone else has pushed codes before you, must write this command everytime you pushed the codes)
+3. git pull (use this to fetch changes from Github repository)
 4. git push (use this to push all your codes to repo)
