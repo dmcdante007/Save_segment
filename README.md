@@ -27,11 +27,15 @@ cd backend
    npm i cors
    ```
 
+3. To change the webhookUrl, update the const of server.js file- Line 16.
+
 4. Start the backend server:
    ```bash
    node server.js
    ```
    This will start the frontend development server running on `http://localhost:5000`
+
+
 
 ### Frontend
 1. Open new terminal & navigate to the frontend directory:
