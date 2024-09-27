@@ -7,8 +7,8 @@ Assignment to save segment schema. Using React.js and TailwindCSS and Node.js an
 To clone this repository to your local environment, run the following command in your terminal:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/dmcdante007/Save_segment.git
+cd backend
 ```
 
 ## Commands to run codes on localhost
